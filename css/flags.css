@@ -1,0 +1,29 @@
+.flag1 {
+    width: 70%;
+    height: 80%;
+    object-fit: cover;
+    border: 2px solid black;
+    margin-top: 20%;
+    margin-left: 25%;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+.flag2 {
+    width: 70%;
+    height: 80%;
+    object-fit: cover;
+    border: 2px solid black;
+    margin-top: 20%;
+    margin-left: 10%;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.flag1:hover {
+    transform: scale(1.1);
+}
+.flag2:hover:hover {
+    transform: scale(1.1);
+}

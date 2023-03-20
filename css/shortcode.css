@@ -3976,7 +3976,7 @@ body .pbmit-service-style-3 .btn3-color-globalcolor{
 	font-size: 16px;
     padding: 50px 0 0px;
     color: rgba(255,255,255,.9);
-	background-color: var(--pbmit-blackish-color);
+	background-color: rgb(63, 62, 62);
 }
 .site-footer .widget {
     margin: 35px 0 40px;

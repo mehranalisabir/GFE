@@ -930,7 +930,7 @@ body {
 	}
 	.tab-content {
 		margin: 0;
-		padding-left: 0px;
+		padding-left: 50px;
 		padding-top: 30px;
 	}
 	.tab-content .content-wrapper {
@@ -948,6 +948,7 @@ body {
 	}
 	.pbmit-testimonial-style-7 .pbminfotech-box-content {
 		padding: 30px 0 0 0px;
+		
 	}
 	.pbmit-testimonial-style-7:after {
 		content: unset;
@@ -955,6 +956,7 @@ body {
 	.pbmit-testimonial-style-7 h3.pbminfotech-box-title {
 		font-size: 18px;
 		line-height: 28px;
+		
 	}
 	.pbmit-testimonial-style-7 {
 		padding: 25px;

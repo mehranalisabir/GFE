@@ -2,8 +2,8 @@
     width: 70%;
     height: 80%;
     object-fit: cover;
-    border: 2px solid black;
-    margin-top: 20%;
+    border: 1px solid black;
+    margin-top: 7%;
     margin-left: 25%;
     cursor: pointer;
     border-radius: 20px;
@@ -13,8 +13,8 @@
     width: 70%;
     height: 80%;
     object-fit: cover;
-    border: 2px solid black;
-    margin-top: 20%;
+    border: 1px solid black;
+    margin-top: 7%;
     margin-left: 10%;
     cursor: pointer;
     border-radius: 20px;
